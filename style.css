@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-body {
+body{
     font-family: "Poppins", sans-serif;
 }
 .cabecalho{
@@ -41,3 +41,7 @@ body {
 .estudante-imagem{
     width: 120px;
 }
+.estudante-icone{
+    width: 32px;
+}
+
